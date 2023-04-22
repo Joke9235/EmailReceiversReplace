@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EmailReceiversReplace:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EmailReceiversReplace_jar</output-path>
+    <root id="archive" name="EmailReceiversReplace.jar">
+      <element id="module-output" name="EmailReceiversReplace" />
+    </root>
+  </artifact>
+</component>
